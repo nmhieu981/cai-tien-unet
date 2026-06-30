@@ -1,0 +1,1 @@
+epoch,train_loss,train_dice,train_iou,train_accuracy,train_recall,train_precision,val_loss,val_dice,val_iou,val_accuracy,val_recall,val_precision
